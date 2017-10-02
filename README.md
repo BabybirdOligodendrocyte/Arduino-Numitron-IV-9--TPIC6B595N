@@ -6,3 +6,6 @@ Thank you to the coders whose code I scaffolded this on and forgot the names of.
 
 Here is a not helpful video of one the IV-9 tubes functioning
 https://www.youtube.com/watch?v=qgJKRV3VLzU
+
+Here was a helpful tutorial using the TPIC6B595N with a 7 segment LED. This is very similiar to the numitron. Includes circuit diagram
+https://portal.gssd.ca/class/z7tsv8u/Pages/folder/project6.aspx
