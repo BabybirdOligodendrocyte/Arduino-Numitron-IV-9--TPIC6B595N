@@ -9,3 +9,5 @@ https://www.youtube.com/watch?v=qgJKRV3VLzU
 
 Here was a helpful tutorial using the TPIC6B595N with a 7 segment LED. This is very similiar to the numitron. Includes circuit diagram
 https://portal.gssd.ca/class/z7tsv8u/Pages/folder/project6.aspx
+
+Also included in this repository is the gerber file of the PCB I made based on the breadboard layout of this clock. You will also find a fritzing file which I used to make the PCB.
